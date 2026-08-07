@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-u89v1z.turbinar.org/sitemap.xml
